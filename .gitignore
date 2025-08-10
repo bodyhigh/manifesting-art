@@ -1,8 +1,28 @@
-
+# Nx cache and generated files
 .nx/installation
 .nx/cache
 .nx/workspace-data
 
-
+# Nx-specific local rules/instructions
 .cursor/rules/nx-rules.mdc
 .github/instructions/nx.instructions.md
+
+# Node / Angular
+node_modules/
+dist/
+tmp/
+coverage/
+
+# Environment / secrets
+.env
+.env.local
+.env.*.local
+
+# IDE / editor files
+.vscode/
+.idea/
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
