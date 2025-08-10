@@ -1,0 +1,1 @@
+# Manifesting.Art Monorepo
